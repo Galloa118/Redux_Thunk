@@ -1,0 +1,57 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.github_avatar {
+  width: 150px;
+}
+.github_avatar img {
+  width: 100%;
+}
+.label {
+  font-size: 20px;
+}
+.keyword_label {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.usename_repos {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.repos_info_row {
+  margin-bottom: 20px;
+}
+.repos_list {
+  margin-top: 30px;
+}
+.container {
+  padding-top: 30px;
+}
